@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+.row1 {
+	float: left;
+	padding: 10px;
+}
+
+#tabelaClassificacao {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#tabelaClassificacao th {
+	border: 1px solid #3e3838;
+	padding: 8px;
+	text-align: left;
+	background-color: #3e3838;
+	color: white;
+}
+
+#tabelaClassificacao .thClassificacao{
+	text-align: center;
+	width: 120px;
+}
+
+#tabelaClassificacao .thVotos{
+	text-align: center;
+	width: 90px;
+}
+
+#tabelaClassificacao td {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+#tabelaClassificacao .tdCenter {
+	text-align: center;
+}
+
+#tabelaClassificacao tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+#tabelaClassificacao tr:hover {
+	background-color: #ddd;
+}
+
+#tabelaAuditoria {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#tabelaAuditoria th {
+	border: 1px solid #3e3838;
+	padding: 8px;
+	text-align: center;
+	background-color: #3e3838;
+	color: white;
+}
+
+#tabelaAuditoria .thData{
+	width: 120px;
+}
+
+#tabelaAuditoria .thHora{
+	width: 150px;
+}
+
+#tabelaAuditoria .thNumero{
+	width: 100px;
+}
+
+#tabelaAuditoria .thTitulo{
+	width: 150px;
+}
+
+#tabelaAuditoria td {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+#tabelaAuditoria .tdCenter {
+	text-align: center;
+}
+
+#tabelaAuditoria tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+#tabelaAuditoria tr:hover {
+	background-color: #ddd;
+}
+

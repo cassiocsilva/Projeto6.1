@@ -1,0 +1,94 @@
+
+.button-menu {
+	height: 25px;
+	width: 262px;
+	border: 2px solid #1f1d1d;
+	background-color: #1f1d1d;
+	color: white;
+	font: 16px Arial;
+	cursor: pointer;
+}
+
+.button-menu:hover {
+	border: 2px solid gray;
+	color: black;
+	background: gray;
+}
+
+.button {
+	height: 30px;
+	width: 84px;
+	border: 2px solid #1f1d1d;
+	background-color: #1f1d1d;
+	color: white;
+	font: 16px Arial;
+	cursor: pointer;
+}
+
+.button:hover {
+	border: 2px solid gray;
+	color: black;
+	background: gray;
+}
+
+.button-blank {
+	height: 30px;
+	width: 84px;
+	background-color: #1f1d1d;
+	color: white;
+	font: 16px Arial;
+	cursor: not-allowed;
+}
+
+.button-white {	
+	height: 30px;
+	width: 84px;
+	border: 2px solid #1f1d1d;
+	background-color: white;
+	color: black;
+	font: 16px Arial;
+	cursor: pointer;
+}
+
+.buttonWhite:hover {
+	border: 2px solid gray;
+	color: black;
+	background: gray;
+}
+
+.button-oranje {	
+	height: 30px;
+	width: 84px;
+	border: 2px solid #1f1d1d;
+	background-color: #f57900;
+	color: black;
+	font: 16px Arial;
+	cursor: pointer;
+}
+
+.button-oranje:hover {
+	border: 2px solid gray;
+	color: black;
+	background: gray;
+}
+
+.button-green {	
+	height: 30px;
+	width: 84px;
+	border: 2px solid #1f1d1d;
+	background-color: #4e9a06;
+	color: black;
+	font: 16px Arial;
+	cursor: pointer;
+}
+
+.button-green:hover {
+	border: 2px solid gray;
+	color: black;
+	background: gray;
+}
+
+
+
+
+

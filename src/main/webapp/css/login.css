@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+label {
+	width: 70px;
+	padding: 8px 8px 8px 0;
+	display: inline-block;
+}
+
+input[type=text], select, textarea {
+	width: 170px;
+	padding: 6px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	resize: vertical;
+}
+
+input[type=password], select, textarea {
+	width: 170px;
+	padding: 6px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	resize: vertical;
+}
